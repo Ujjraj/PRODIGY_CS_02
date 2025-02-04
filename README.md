@@ -5,7 +5,7 @@
 The Image Encryption and Decryption Tool is a Python-based application designed to secure images using pixel-level manipulation. This tool employs a simple yet effective encryption technique to transform images into an unreadable format and restore them to their original state using a cipher key. It is an excellent project for understanding the fundamentals of image processing and encryption.
 
 ### REQUIREMENTS
-- Python 3.x
+- Python `3.x`
 - Pillow library (`pip install pillow`)
 
 ### HOW DOES IT WORK?
